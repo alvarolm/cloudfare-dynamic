@@ -1,2 +1,2 @@
 # cloudfare-dynamic
-cloudfare dynamic dns updater
+cloudfare dynamic dns updater.
